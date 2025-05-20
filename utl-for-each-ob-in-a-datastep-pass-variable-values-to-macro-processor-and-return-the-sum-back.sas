@@ -16,6 +16,10 @@ I could not get any of the posted solutions to work. Probably my bad?
             3 posted solution
             4 related repos
 
+github
+https://tinyurl.com/5x6v6jbn
+https://github.com/rogerjdeangelis/utl-for-each-ob-in-a-datastep-pass-variable-values-to-macro-processor-and-return-the-sum-back
+
 https://github.com/rogerjdeangelis/utl-twelve-interfaces-for-dosubl
 
 actually 13
