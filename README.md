@@ -20,6 +20,10 @@ For each ob in a datastep pass variable values to the macro processor and return
 
     https://github.com/rogerjdeangelis/utl-twelve-interfaces-for-dosubl
 
+    github
+    https://tinyurl.com/5x6v6jbn
+    https://github.com/rogerjdeangelis/utl-for-each-ob-in-a-datastep-pass-variable-values-to-macro-processor-and-return-the-sum-back
+
     actually 13
     https://communities.sas.com/t5/SAS-Programming/How-to-call-macro-within-dataset/m-p/809415#M319200
 
